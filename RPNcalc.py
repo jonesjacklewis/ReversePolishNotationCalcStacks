@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from Stack import Stack#Imports the Stack class from the Stack file
 def RPN():#defines the function RPN
     rpn_val=Stack()#Initialises rpn_val as a new Stack object
