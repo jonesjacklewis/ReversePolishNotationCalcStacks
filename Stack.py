@@ -12,3 +12,5 @@ class Stack: #Creates a Class called Stack
         else:
             return self.stack.pop()#returns and removes item at top of the stack
 
+if __name__=="__main__":
+    main()
