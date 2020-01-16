@@ -30,3 +30,6 @@ def RPN():#defines the function RPN
 
 RPN()#run function
 input()#take an input
+
+if __name__=="__main__":
+    main()
